@@ -1,0 +1,42 @@
+.sec1 {
+   
+    max-width: 60.5rem; 
+    height: 30rem; 
+    margin: auto;
+    
+    
+    background-color: rgb(204, 193, 216);
+
+}
+
+.sec1 h1 {
+    position: absolute;
+    top: 90px;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin-top:  5rem;
+}
+
+.sec1 h3 {
+    position: absolute;
+    top: 130px;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin-top:  5rem;
+
+}
+
+.sec1 div {
+width: 8rem;
+height: 3rem;
+background-color:  #7622D7;
+
+
+color: rgb(0, 0, 0);
+
+border-radius: 5px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
